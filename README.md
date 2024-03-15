@@ -3,4 +3,4 @@ NetComm is a GUI based networking chat application developed in java which utili
 ## installation
 Run the server side java file and wait for client to connect. From the client side connect to server completing the tcp websocket connection and share images and messages. Close the client side GUI after fininshing to free the server port.
 ## License
-MIT - License, Github
+MIT - License Github
